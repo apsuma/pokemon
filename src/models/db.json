@@ -123,6 +123,17 @@
       "types": [
         "Feu"
       ]
+    },
+    {
+      "id": 1600354992744,
+      "hp": 100,
+      "cp": 10,
+      "name": "Gloubaba",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
+      "types": [
+        "Normal",
+        "Poison"
+      ]
     }
   ]
 }
