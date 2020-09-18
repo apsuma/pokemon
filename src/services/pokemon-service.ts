@@ -1,4 +1,3 @@
-import { error } from "console";
 import Pokemon from "../models/pokemon";
  
 export default class PokemonService {
@@ -51,6 +50,12 @@ export default class PokemonService {
     return fetch('http://localhost:3001/pokemons', requestOptions)
     .then(response => response.json())
     .catch(error => this.handleError(error));
+  }
+
+  static searchPokemon(term:string): Promise<Pokemon[]> {
+    return fetch(`http://localhost:3001/pokemons?q=${term}`)
+      .then(response => response.json())
+      .catch(error => this.handleError(error));
   }
 
   static handleError(error:Error): void {
