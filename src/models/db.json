@@ -125,13 +125,96 @@
       ]
     },
     {
-      "id": 1600354992744,
+      "id": 13,
       "hp": 100,
       "cp": 10,
-      "name": "Gloubaba",
+      "name": "Galopa",
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
       "types": [
+        "Feu"
+      ]
+    },
+    {
+      "id": 14,
+      "hp": 100,
+      "cp": 10,
+      "name": "Grodoudou",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/040.png",
+      "types": [
         "Normal",
+        "Fée"
+      ]
+    },
+    {
+      "id": 15,
+      "hp": 100,
+      "cp": 10,
+      "name": "Aéromite",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/049.png",
+      "types": [
+        "Insecte",
+        "Poison"
+      ]
+    },
+    {
+      "id": 16,
+      "hp": 100,
+      "cp": 10,
+      "name": "Persian",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "id": 17,
+      "hp": 100,
+      "cp": 10,
+      "name": "Akwakwak",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/055.png",
+      "types": [
+        "Eau"
+      ]
+    },
+    {
+      "id": 18,
+      "hp": 100,
+      "cp": 10,
+      "name": "Alakazam",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png",
+      "types": [
+        "Psy"
+      ]
+    },
+    {
+      "id": 19,
+      "hp": 100,
+      "cp": 10,
+      "name": "Empiflor",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/071.png",
+      "types": [
+        "Plante",
+        "Poison"
+      ]
+    },
+    {
+      "id": 20,
+      "hp": 100,
+      "cp": 10,
+      "name": "Tentacruel",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png",
+      "types": [
+        "Eau",
+        "Poison"
+      ]
+    },
+    {
+      "id": 21,
+      "hp": 100,
+      "cp": 10,
+      "name": "Nidoqueen",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/031.png",
+      "types": [
         "Poison"
       ]
     }

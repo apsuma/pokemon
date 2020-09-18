@@ -12,7 +12,7 @@ const PokemonSearch: FunctionComponent = () => {
     const term = e.target.value;
     setTerm(term);
  
-    if(term.length <= 3) {
+    if(term.length <= 2) {
       setPokemons([]);
       return;
     }
