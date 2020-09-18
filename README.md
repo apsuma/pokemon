@@ -2,6 +2,6 @@
 ## premier projet avec typescript
 ## css avec materialize
 ### en suivant les conseils de Simon Dieny (Udemy)
-### déployé avec firebase hosting.
+### projet déployé avec [firebase hosting](https://poke-react-bb409.firebaseapp.com).
 apsuma - septembre 2020
 
