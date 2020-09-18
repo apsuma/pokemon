@@ -108,7 +108,100 @@ export const POKEMONS: Pokemon[] = [
   picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
   types: ["Feu"],
   created: new Date()
- }
+ },
+{
+  id: 13,
+  name: "Galopa",
+  hp: 100,
+  cp: 10,
+  picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
+  types: ["Feu"],
+  created: new Date()
+},
+{
+ id: 14,
+ name: "Grodoudou",
+ hp: 100,
+ cp: 10,
+ picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/040.png",
+ types: [
+ "Normal",
+ "Fée"
+ ],
+ created: new Date()
+},
+{
+ id: 15,
+ name: "Aéromite",
+ hp: 100,
+ cp: 10,
+ picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/049.png",
+ types: [
+ "Insecte",
+ "Poison"
+ ],
+ created: new Date()
+},
+{
+ id: 16,
+ name: "Persian",
+ hp: 100,
+ cp: 10,
+ picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png",
+ types: [
+ "Normal"
+ ],
+ created: new Date()
+},
+{
+ id: 17,
+ name: "Akwakwak",
+ hp: 100,
+ cp: 10,
+ picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/055.png",
+ types: [
+ "Eau"
+ ],
+ created: new Date()
+},
+{
+ id: 18,
+ name: "Alakazam",
+ hp: 100,
+ cp: 10,
+ picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png",
+ types: [
+ "Psy"
+ ],
+ created: new Date()
+},
+{
+ id: 19,
+ name: "Empiflor",
+ hp: 100,
+ cp: 10,
+ picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/071.png",
+ types: ["Plante", "Poison"],
+ created: new Date()
+},
+{
+ id: 20,
+ name: "Tentacruel",
+ hp: 100,
+ cp: 10,
+ picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png",
+ types: ["Eau", "Poison"],
+ created: new Date()
+},
+{
+ id: 21,
+ name: "Nidoqueen",
+ hp: 100,
+ cp: 10,
+ picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/031.png",
+ types: ["Poison"],
+ created: new Date()
+}
 ];
   
 export default POKEMONS;
