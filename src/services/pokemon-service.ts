@@ -94,7 +94,7 @@ export default class PokemonService {
       .catch(error => this.handleError(error));
     }
     return new Promise(resolve => {
-      const results = this.pokemons.filter((pokemon => pokemon.name.includes(term)) || (pokemon => pokemon.types.includes(term)));
+      const results = this.pokemons.filter(pokemon => pokemon.name.includes(term));
       resolve(results);
     });
   }
